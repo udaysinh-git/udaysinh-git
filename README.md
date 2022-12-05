@@ -9,7 +9,7 @@
 
 - <img src="https://c.tenor.com/akBy6qWGjs4AAAAj/peach-cat-mochi-peach-cat.gif" width="30"> I’m currently learning **Javascript**
 
-- <img src="https://c.tenor.com/AaeYHs3bErQAAAAi/great-ideas-wide-smile.gif" width="30"> I’m collaborating on [Panic Button](https://github.com/udaysinh-git/Panic-Button-V2))
+- <img src="https://c.tenor.com/AaeYHs3bErQAAAAi/great-ideas-wide-smile.gif" width="30"> I’m collaborating on [Panic Button](https://github.com/udaysinh-git/Panic-Button-V2)
 
 - <img src="https://c.tenor.com/MO9EVblTnxkAAAAi/cat-pet.gif" width="35"> I’m looking for help with **my studies**
 
