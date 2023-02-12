@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="30">, I' m Udaysinh <img src="https://c.tenor.com/Oz17KlgG2GoAAAAj/peach-cat.gif" width="50"></h1>
 <h3 align="center"><img src="https://c.tenor.com/DuozGWuBhqIAAAAj/mochi-peachcat.gif" width="40"> Just someone who loves to code more than life..</h3>
 
-<p align="center"> <a href="https://twitter.com/Udaysinh_is_god" target="_blank"><img src="https://img.shields.io/twitter/follow/Udaysinh_is_god?logo=twitter&style=for-the-badge" alt="udaysinh_19" /></a> </p>
+<p align="center"> <a href="https://twitter.com/udaysinh_me" target="_blank"><img src="https://img.shields.io/twitter/follow/udaysinh_me?logo=twitter&style=for-the-badge" alt="udaysinh_19" /></a> </p>
 <br>
 <p align="center"> <a href="https://www.youtube.com/c/Udaysinh_xD?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC79yHbnNm9mfTFG0DXHOrmw?logo=youtube&style=for-the-badge" alt="udaysinh_19" /></a> </p>
 
