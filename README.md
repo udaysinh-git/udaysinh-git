@@ -42,7 +42,7 @@
 <h3 align="center"><img src="https://c.tenor.com/ii_OGSfl2R0AAAAj/narseh-narseh-streaming.gif" width="40"> What I am Listening to On <img src="https://c.tenor.com/WWUYzlS4v-8AAAAj/spotify-taiga.gif" width="20"> ?</h3>
 <br>
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=e5dxndhuj1pphjzho1yifsxzt&redirect=true" target="blank"><img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="udaysinh"/></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" target="blank"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="udaysinh"/></a>
 <p>
   <br>
   <br>
