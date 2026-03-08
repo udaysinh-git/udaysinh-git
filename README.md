@@ -4,17 +4,10 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-<picture>
-  <img src="assets/desktop.png" alt="Windows XP Desktop — Udaysinh's Profile" width="100%" />
-</picture>
-
-<br />
-
-<picture>
-  <img src="assets/terminal.svg" alt="Windows XP Terminal Session" width="100%" />
-</picture>
-
+<table><tr>
+<td width="50%"><img src="assets/desktop.png" alt="Windows XP Desktop — Udaysinh's Profile" width="100%" /></td>
+<td width="50%"><img src="assets/terminal.svg" alt="Windows XP Terminal Session" width="100%" /></td>
+</tr></table>
 </div>
 
 <br />
