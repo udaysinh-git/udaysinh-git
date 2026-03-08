@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 42" width="900" height="42">
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#245EDC"/>
+      <stop offset="3%" stop-color="#1C55CC"/>
+      <stop offset="50%" stop-color="#1042A2"/>
+      <stop offset="97%" stop-color="#0D3894"/>
+      <stop offset="100%" stop-color="#0A2E80"/>
+    </linearGradient>
+    <linearGradient id="sb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6FCA6F"/>
+      <stop offset="5%" stop-color="#3DAA3D"/>
+      <stop offset="50%" stop-color="#329832"/>
+      <stop offset="95%" stop-color="#278C27"/>
+      <stop offset="100%" stop-color="#1E7E1E"/>
+    </linearGradient>
+    <linearGradient id="wb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4488D8"/>
+      <stop offset="5%" stop-color="#3474C4"/>
+      <stop offset="50%" stop-color="#2360B0"/>
+      <stop offset="95%" stop-color="#1C54A0"/>
+      <stop offset="100%" stop-color="#164890"/>
+    </linearGradient>
+    <linearGradient id="wbp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1E4FAA"/>
+      <stop offset="50%" stop-color="#163E90"/>
+      <stop offset="100%" stop-color="#102E78"/>
+    </linearGradient>
+    <linearGradient id="tr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F5FCC"/>
+      <stop offset="50%" stop-color="#1565D5"/>
+      <stop offset="100%" stop-color="#0F5FCC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main taskbar background -->
+  <rect width="900" height="42" fill="url(#tb)"/>
+  <line x1="0" y1="0.5" x2="900" y2="0.5" stroke="#5FA0E8" stroke-width="1" opacity="0.8"/>
+
+  <!-- ═══ START BUTTON ═══ -->
+  <!-- Rounded-left rectangle -->
+  <rect x="2" y="3" width="14" height="36" rx="8" fill="url(#sb)"/>
+  <rect x="10" y="3" width="100" height="36" fill="url(#sb)"/>
+  <line x1="10" y1="4" x2="108" y2="4" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+
+  <!-- Windows flag (4 colored panes) -->
+  <g transform="translate(16,10)">
+    <rect x="0" y="0" width="8" height="8" rx="1" fill="#EF3030"/>
+    <rect x="0" y="10" width="8" height="8" rx="1" fill="#00A800"/>
+    <rect x="10" y="0" width="8" height="8" rx="1" fill="#0066FF"/>
+    <rect x="10" y="10" width="8" height="8" rx="1" fill="#FFB800"/>
+  </g>
+
+  <!-- "start" italic text -->
+  <text x="44" y="27" font-family="Tahoma,sans-serif" font-size="17" font-weight="bold" font-style="italic" fill="white" letter-spacing="0.5">start</text>
+
+  <!-- Divider -->
+  <line x1="116" y1="6" x2="116" y2="36" stroke="#0A2E80"/>
+  <line x1="117" y1="6" x2="117" y2="36" stroke="#5FA0E8" opacity="0.3"/>
+
+  <!-- ═══ WINDOW BUTTON 1 : udaysinh.me (active/pressed) ═══ -->
+  <rect x="124" y="5" width="195" height="32" rx="3" fill="url(#wbp)"/>
+  <!-- IE icon -->
+  <g transform="translate(131,11)">
+    <circle cx="8" cy="8" r="7" fill="none" stroke="#5FC8FF" stroke-width="1.5"/>
+    <text x="4" y="13" font-family="Georgia,serif" font-size="12" font-weight="bold" fill="#5FC8FF" font-style="italic">e</text>
+  </g>
+  <text x="151" y="25" font-family="Tahoma,sans-serif" font-size="11" fill="white">udaysinh.me — Internet...</text>
+
+  <!-- ═══ WINDOW BUTTON 2 : cmd.exe ═══ -->
+  <rect x="325" y="5" width="180" height="32" rx="3" fill="url(#wb)"/>
+  <line x1="326" y1="6" x2="503" y2="6" stroke="#5FA0E8" stroke-width="0.5" opacity="0.3"/>
+  <!-- CMD icon -->
+  <rect x="332" y="11" width="16" height="16" rx="1" fill="#0C0C0C" stroke="#555" stroke-width="0.5"/>
+  <text x="334" y="22" font-family="Consolas,monospace" font-size="7.5" fill="#C0C0C0">C:\&gt;</text>
+  <text x="352" y="25" font-family="Tahoma,sans-serif" font-size="11" fill="white">C:\WINDOWS\...\cmd.exe</text>
+
+  <!-- ═══ SYSTEM TRAY ═══ -->
+  <rect x="610" y="4" width="288" height="34" fill="url(#tr)"/>
+  <!-- Inset borders -->
+  <line x1="610" y1="4" x2="610" y2="38" stroke="#0A2E80"/>
+  <line x1="611" y1="5" x2="611" y2="37" stroke="#5FA0E8" opacity="0.3"/>
+  <line x1="610" y1="4" x2="898" y2="4" stroke="#0A2E80"/>
+  <line x1="610" y1="5" x2="898" y2="5" stroke="#5FA0E8" opacity="0.2"/>
+
+  <!-- Expand arrow -->
+  <polygon points="620,18 626,21 620,24" fill="#A0C4F0" opacity="0.7"/>
+
+  <line x1="634" y1="10" x2="634" y2="32" stroke="#0A2E80"/>
+  <line x1="635" y1="10" x2="635" y2="32" stroke="#5FA0E8" opacity="0.2"/>
+
+  <!-- Globe icon (udaysinh.me) -->
+  <g transform="translate(644,12)" opacity="0.85">
+    <circle cx="7" cy="7" r="6.5" fill="none" stroke="#A0D4FF" stroke-width="1"/>
+    <line x1="0.5" y1="7" x2="13.5" y2="7" stroke="#A0D4FF" stroke-width="0.7"/>
+    <ellipse cx="7" cy="7" rx="3" ry="6.5" fill="none" stroke="#A0D4FF" stroke-width="0.7"/>
+    <line x1="2" y1="3.5" x2="12" y2="3.5" stroke="#A0D4FF" stroke-width="0.5"/>
+    <line x1="2" y1="10.5" x2="12" y2="10.5" stroke="#A0D4FF" stroke-width="0.5"/>
+  </g>
+
+  <!-- X / Twitter icon -->
+  <g transform="translate(667,14)" opacity="0.85">
+    <line x1="1" y1="1" x2="11" y2="11" stroke="#A0D4FF" stroke-width="1.8" stroke-linecap="round"/>
+    <line x1="11" y1="1" x2="1" y2="11" stroke="#A0D4FF" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Camera / Instagram icon -->
+  <g transform="translate(687,12)" opacity="0.85">
+    <rect x="0" y="0" width="14" height="14" rx="3" fill="none" stroke="#A0D4FF" stroke-width="1"/>
+    <circle cx="7" cy="7" r="3.5" fill="none" stroke="#A0D4FF" stroke-width="1"/>
+    <circle cx="11.5" cy="2.5" r="1" fill="#A0D4FF"/>
+  </g>
+
+  <!-- Music note / Spotify icon -->
+  <g transform="translate(710,11)" opacity="0.85">
+    <ellipse cx="4" cy="14" rx="3.5" ry="2.5" fill="#A0D4FF"/>
+    <line x1="7.5" y1="2" x2="7.5" y2="14" stroke="#A0D4FF" stroke-width="1.5"/>
+    <line x1="7.5" y1="2" x2="14" y2="0.5" stroke="#A0D4FF" stroke-width="1.5"/>
+    <line x1="7.5" y1="5" x2="14" y2="3.5" stroke="#A0D4FF" stroke-width="1.5"/>
+  </g>
+
+  <line x1="732" y1="10" x2="732" y2="32" stroke="#0A2E80"/>
+  <line x1="733" y1="10" x2="733" y2="32" stroke="#5FA0E8" opacity="0.2"/>
+
+  <!-- Volume icon -->
+  <g transform="translate(742,14)" opacity="0.85">
+    <polygon points="0,5 3,5 7,1 7,13 3,9 0,9" fill="#A0D4FF"/>
+    <path d="M9,3 Q12,7 9,11" fill="none" stroke="#A0D4FF" stroke-width="1" stroke-linecap="round"/>
+    <path d="M11,1 Q15,7 11,13" fill="none" stroke="#A0D4FF" stroke-width="1" stroke-linecap="round"/>
+  </g>
+
+  <line x1="766" y1="10" x2="766" y2="32" stroke="#0A2E80"/>
+  <line x1="767" y1="10" x2="767" y2="32" stroke="#5FA0E8" opacity="0.2"/>
+
+  <!-- ═══ CLOCK ═══ -->
+  <!-- "2" -->
+  <text x="778" y="26" font-family="Tahoma,sans-serif" font-size="12" fill="white">2</text>
+  <!-- Blinking colon -->
+  <text x="787" y="26" font-family="Tahoma,sans-serif" font-size="12" fill="white">
+    :
+    <animate attributeName="opacity" values="1;1;0;0" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <!-- "14 AM" -->
+  <text x="793" y="26" font-family="Tahoma,sans-serif" font-size="12" fill="white">14 AM</text>
+
+</svg>

@@ -46,32 +46,22 @@
 
 </details>
 
-<details open>
-<summary>
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Network%20and%20Internet.png" width="20" />
-&nbsp; <b>Network Connections</b> — Socials
-</summary>
+<!-- ═══════ XP TASKBAR ═══════ -->
 
-<br />
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="150"><a href="https://udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Internet%20Explorer%206.png" width="40" /><br /><b>udaysinh.me</b></a></td>
-<td align="center" width="150"><a href="https://twitter.com/udaysinh_me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/MSN%20Messenger.png" width="40" /><br /><b>@udaysinh_me</b></a></td>
-<td align="center" width="150"><a href="https://instagram.com/udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Digital%20Camera.png" width="40" /><br /><b>Instagram</b></a></td>
-<td align="center" width="150"><a href="https://sptfy.com/Udaysinh"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/My%20Music.png" width="40" /><br /><b>Spotify</b></a></td>
+<td align="center" width="130"><a href="https://udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Internet%20Explorer%206.png" width="24" /><br /><sub><b>udaysinh.me</b></sub></a></td>
+<td align="center" width="130"><a href="https://twitter.com/udaysinh_me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/MSN%20Messenger.png" width="24" /><br /><sub><b>@udaysinh_me</b></sub></a></td>
+<td align="center" width="130"><a href="https://instagram.com/udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Digital%20Camera.png" width="24" /><br /><sub><b>Instagram</b></sub></a></td>
+<td align="center" width="130"><a href="https://sptfy.com/Udaysinh"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/My%20Music.png" width="24" /><br /><sub><b>Spotify</b></sub></a></td>
 </tr>
 </table>
 
-</details>
-
-<br />
-
-<div align="center">
+<img src="assets/taskbar.svg" alt="Windows XP Taskbar" width="100%" />
 <sub>
-
-*Windows XP Professional — Build 2600.xpsp_sp3 — © Udaysinh 2026*
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Windows%20Catalog.png" width="14" /> made with love, cats, and a suspicious amount of nostalgia
-
+<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Windows%20Catalog.png" width="12" />
+<i>Windows XP Professional — Build 2600.xpsp_sp3 — © Udaysinh 2026</i>
 </sub>
 </div>
