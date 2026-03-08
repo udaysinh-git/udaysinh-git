@@ -45,16 +45,7 @@
 
 <br />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udaysinh-git&show_icons=true&theme=default&bg_color=ECE9D8&title_color=003399&icon_color=003399&text_color=000000&border_color=0054E3" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysinh-git&layout=compact&theme=default&bg_color=ECE9D8&title_color=003399&text_color=000000&border_color=0054E3" width="49%" />
-
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysinh-git&background=ECE9D8&ring=003399&fire=FF6600&currStreakLabel=003399&sideLabels=003399&currStreakNum=000000&sideNums=000000&dates=666666&border=0054E3" width="60%" />
-
-</div>
 
 </details>
 
