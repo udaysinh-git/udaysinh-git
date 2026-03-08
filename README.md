@@ -9,6 +9,12 @@
   <img src="assets/desktop.png" alt="Windows XP Desktop — Udaysinh's Profile" width="100%" />
 </picture>
 
+<br />
+
+<picture>
+  <img src="assets/terminal.svg" alt="Windows XP Terminal Session" width="100%" />
+</picture>
+
 </div>
 
 <br />
@@ -45,7 +51,16 @@
 
 <br />
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=udaysinh-git&show_icons=true&theme=default&bg_color=ECE9D8&title_color=003399&icon_color=003399&text_color=000000&border_color=0054E3" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysinh-git&layout=compact&theme=default&bg_color=ECE9D8&title_color=003399&text_color=000000&border_color=0054E3" width="49%" />
+
+<br />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysinh-git&background=ECE9D8&ring=003399&fire=FF6600&currStreakLabel=003399&sideLabels=003399&currStreakNum=000000&sideNums=000000&dates=666666&border=0054E3" width="60%" />
+
+</div>
 
 </details>
 
@@ -68,32 +83,12 @@
 
 </details>
 
-<details>
-<summary>
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Command%20Prompt.png" width="20" />
-&nbsp; <b>Run...</b>
-</summary>
-
-<br />
-
-```bash
-C:\Users\Visitor> git clone https://github.com/udaysinh-git/udaysinh-git.git
-Cloning into 'udaysinh-git'...
-remote: Total 42 (delta 0), reused 42 (delta 0)
-Receiving objects: 100% (42/42), done.
-
-C:\Users\Visitor> echo "Thanks for stopping by! :)"
-"Thanks for stopping by! :)"
-```
-
-</details>
-
 <br />
 
 <div align="center">
 <sub>
 
-*Windows XP Professional — Build 2600.xpsp_sp3 — © Udaysinh 2025*  
+*Windows XP Professional — Build 2600.xpsp_sp3 — © Udaysinh 2026*
 <img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Windows%20Catalog.png" width="14" /> made with love, cats, and a suspicious amount of nostalgia
 
 </sub>
