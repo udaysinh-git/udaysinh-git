@@ -14,7 +14,7 @@
 
 <!-- ═══════ INTERACTIVE START MENU ═══════ -->
 
-<details>
+<details open>
 <summary>
 <img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Start%20Menu%20Programs.png" width="20" />
 &nbsp; <b>All Programs</b> — Skills &amp; Technologies
@@ -36,7 +36,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>
 <img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Control%20Panel.png" width="20" />
 &nbsp; <b>Control Panel</b> — GitHub Stats
@@ -46,7 +46,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>
 <img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Network%20and%20Internet.png" width="20" />
 &nbsp; <b>Network Connections</b> — Socials
