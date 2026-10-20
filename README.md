@@ -1,67 +1,34 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║          W I N D O W S   X P   D E S K T O P        ║ -->
-<!-- ║              Udaysinh's GitHub Profile               ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+# hi, i'm udaysinh
 
-<div align="center">
-<table><tr>
-<td width="50%"><img src="assets/desktop.png" alt="Windows XP Desktop — Udaysinh's Profile" width="100%" /></td>
-<td width="50%"><img src="assets/terminal.svg" alt="Windows XP Terminal Session" width="100%" /></td>
-</tr></table>
-</div>
+i'm a software developer and AI engineer from Pune. i run [KuroLabs](https://kurolabs.in) and build AI products at [LifeAt](https://lifeat.io). most of what lives here is me making cheap hardware do things the vendor never intended, plus a few apps i wanted for myself. i like cats and kumputers.
 
-<br />
+the long-form version of all this is on [udaysinh.me](https://udaysinh.me).
 
-<!-- ═══════ INTERACTIVE START MENU ═══════ -->
+## taking things apart
 
-<details open>
-<summary>
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Start%20Menu%20Programs.png" width="20" />
-&nbsp; <b>All Programs</b> — Skills &amp; Technologies
-</summary>
+- [boat-watch](https://github.com/udaysinh-git/boat-watch): a boAt Prism smartwatch driven from a PC over Bluetooth LE. custom watch faces from python, no vendor app. _(the command channel has no auth at all.)_
+- [root-lenovo-tab-m8](https://github.com/udaysinh-git/root-lenovo-tab-m8): root a Lenovo Tab M8 HD, flash a LineageOS GSI, and bolt it to the wall as a third monitor and webcam.
+- [msi-app-player-root](https://github.com/udaysinh-git/msi-app-player-root): root MSI App Player / BlueStacks 5 by injecting a setuid `su` into Root.vhd from WSL2. no Magisk, no boot hook.
+- [MSI-katana-ambient](https://github.com/udaysinh-git/MSI-katana-ambient): ambilight for MSI laptop keyboards. the RGB zones follow whatever is on screen (or the audio) over raw USB HID.
 
-<br />
+## building things
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- [Rupant](https://github.com/udaysinh-git/Rupant): privacy-first file transformation that works entirely offline.
+- [QeBoard](https://github.com/udaysinh-git/QeBoard): a remote keyboard with a terminal UI. control any machine over LAN or WAN. i was too broke to buy a new keyboard.
+- [Chat2DB](https://github.com/udaysinh-git/Chat2DB): gossip with your database instead of writing SQL.
+- [Tome-Reader](https://github.com/udaysinh-git/Tome-Reader): a reader for EPUB, PDF and CBZ with bookmarks, highlights and folder sync.
+- [Dither-Girl](https://github.com/udaysinh-git/Dither-Girl): an image editor with artistic effects and a dark, minimal interface.
+- [Fragmentor](https://github.com/udaysinh-git/Fragmentor): a shazam clone. audio gets sliced, fingerprinted and matched.
+- [Ask-her-for-date](https://github.com/udaysinh-git/Ask-her-for-date): a windows 95 page for asking someone out. somehow my most starred repo.
 
-</details>
+## writing
 
-<details open>
-<summary>
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Control%20Panel.png" width="20" />
-&nbsp; <b>Control Panel</b> — GitHub Stats
-</summary>
+- [You Can No Longer Charge People for Software](https://udaysinh.me/essays/you-can-no-longer-charge-people-for-software/)
+- [boAt left the keys in the app](https://udaysinh.me/essays/boat-left-the-keys-in-the-app/)
+- [controlling a boAt smartwatch from my laptop over bluetooth](https://udaysinh.me/essays/boat-smartwatch-ble/)
+- [how i rooted my Lenovo Tab M8 HD](https://udaysinh.me/essays/root-lenovo-tab-m8-hd/)
+- [A Whole Shit Ton of Vibe Coders But No New Zuckerberg. Why?](https://udaysinh.me/essays/vibe-coders-no-new-zuckerberg/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysinh-git&background=ECE9D8&ring=003399&fire=FF6600&currStreakLabel=003399&sideLabels=003399&currStreakNum=000000&sideNums=000000&dates=666666&border=0054E3" width="60%" />
+## elsewhere
 
-</details>
-
-<!-- ═══════ XP TASKBAR ═══════ -->
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="130"><a href="https://udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Internet%20Explorer%206.png" width="24" /><br /><sub><b>udaysinh.me</b></sub></a></td>
-<td align="center" width="130"><a href="https://twitter.com/udaysinh_me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/MSN%20Messenger.png" width="24" /><br /><sub><b>@udaysinh_me</b></sub></a></td>
-<td align="center" width="130"><a href="https://instagram.com/udaysinh.me"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Digital%20Camera.png" width="24" /><br /><sub><b>Instagram</b></sub></a></td>
-<td align="center" width="130"><a href="https://sptfy.com/Udaysinh"><img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/My%20Music.png" width="24" /><br /><sub><b>Spotify</b></sub></a></td>
-</tr>
-</table>
-
-<img src="assets/taskbar.svg" alt="Windows XP Taskbar" width="100%" />
-<sub>
-<img src="Windows%20XP%20High%20Resolution%20Icon%20Pack/Windows%20XP%20Icons/Windows%20Catalog.png" width="12" />
-<i>Windows XP Professional — Build 2600.xpsp_sp3 — © Udaysinh 2026</i>
-</sub>
-</div>
+[udaysinh.me](https://udaysinh.me) · [twitter](https://twitter.com/udaysinh_me) · [instagram](https://instagram.com/udaysinh.me) · [spotify](https://sptfy.com/Udaysinh)
