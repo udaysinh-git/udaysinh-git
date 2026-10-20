@@ -12,6 +12,7 @@ the long-form version of all this is on [udaysinh.me](https://udaysinh.me).
 - [MSI-katana-ambient](https://github.com/udaysinh-git/MSI-katana-ambient): ambilight for MSI laptop keyboards. the RGB zones follow whatever is on screen (or the audio) over raw USB HID.
 
 ## building things
+- [gimmethatdata](https://github.com/udaysinh-git/gimmethatdata): a scraper with a terminal UI. crawls a site, escalates from plain HTTP to a real browser only when it has to, and exports markdown or PDF. also does Instagram analytics.
 
 - [Rupant](https://github.com/udaysinh-git/Rupant): privacy-first file transformation that works entirely offline.
 - [QeBoard](https://github.com/udaysinh-git/QeBoard): a remote keyboard with a terminal UI. control any machine over LAN or WAN. i was too broke to buy a new keyboard.
