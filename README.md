@@ -14,7 +14,7 @@ the long-form version of all this is on [udaysinh.me](https://udaysinh.me).
 ## building things
 
 - [gimmethatdata](https://github.com/udaysinh-git/gimmethatdata): a scraper with a terminal UI. crawls a site, escalates from plain HTTP to a real browser only when it has to, and exports markdown or PDF. also does Instagram analytics.
-- [avar](https://github.com/WeLabs-in/avar): an encrypted secrets CLI in Rust. activates the right environment on its own and shares secrets with a team without a server.
+- [avar](https://github.com/WeLabs-in/avar): an encrypted secrets CLI in Rust. activates the right environment on its own and makes the secrets portable across a team.
 - [Rupant](https://github.com/udaysinh-git/Rupant): privacy-first file transformation that works entirely offline.
 - [QeBoard](https://github.com/udaysinh-git/QeBoard): a remote keyboard with a terminal UI. control any machine over LAN or WAN. i was too broke to buy a new keyboard.
 - [Chat2DB](https://github.com/udaysinh-git/Chat2DB): gossip with your database instead of writing SQL.
