@@ -20,7 +20,6 @@ the long-form version of all this, including the private builds, is on [udaysinh
 - [Chat2DB](https://github.com/udaysinh-git/Chat2DB): gossip with your database instead of writing SQL.
 - [Tome-Reader](https://github.com/udaysinh-git/Tome-Reader): a reader for EPUB, PDF and CBZ with bookmarks, highlights, word definitions and folder sync.
 - [Fragmentor](https://github.com/udaysinh-git/Fragmentor): a shazam clone. audio gets sliced, fingerprinted and matched.
-- [Scam-Protection](https://github.com/udaysinh-git/Scam-Protection): a Discord bot that kept 30,000+ users away from fake nitro links and hijacked accounts.
 
 ## making things
 
@@ -33,6 +32,7 @@ the long-form version of all this, including the private builds, is on [udaysinh
 
 - [ManasOS](https://udaysinh.me/projects/manasos/): a native operating environment where AI agents are first-class citizens. typed capability interfaces instead of shell syntax, structured outputs, local intent routing.
 - [Myra](https://udaysinh.me/projects/myra/): a Discord bot that reached 150k+ users across servers. leveling, moderation, statistics, automations.
+- Scam Protection: a Discord bot that kept 30,000+ users away from fake nitro links and hijacked accounts.
 - KuroLabs client and product work: [kurolabs.in](https://kurolabs.in).
 
 ## writing
